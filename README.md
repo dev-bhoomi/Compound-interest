@@ -47,6 +47,34 @@ Hope that helps!
 ## How to deploy
 [![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
 
+## Features
+
+- City-Based Weather Search : Enter the name of any city to retrieve and display the current temperature
+and weather conditions.
+
+- Responsive Design : The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
+- Question Loading : Allows manual loading of questions, ensuring a unique experience with each playthrough.
+- Score Tracking : Tracks and displays the user's current level and score, motivating users to achieve higher scores.
+
+
+# Hi, I'm dev-bhoomi! 👋
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, bootstrap and react.js
+
+
+## 🔗 Links
+https://github.com/dev-bhoomi
+
+## Used By
+
+This project is used by the following companies:
+
+- Company 1
+- Company 2
+
+
 ## Screenshots
 
 ![Alt Text]
@@ -89,16 +117,6 @@ Any additional information goes here
 #### add(num1, num2)
 
 Takes two numbers and returns the sum.
-
-
-## Features
-
-- City-Based Weather Search : Enter the name of any city to retrieve and display the current temperature
-and weather conditions.
-
-- Responsive Design : The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
-- Question Loading : Allows manual loading of questions, ensuring a unique experience with each playthrough.
-- Score Tracking : Tracks and displays the user's current level and score, motivating users to achieve higher scores.
 
 
 ## Authors
@@ -159,16 +177,6 @@ Please adhere to this project's `code of conduct`.
 If you have any feedback, please reach out to us at fake@fake.com
 
 
-# Hi, I'm dev-bhoomi! 👋
-
-
-## 🔗 Links
-https://github.com/dev-bhoomi
-
-## 🛠 Skills
-Javascript, HTML, CSS, bootstrap and react.js
-
-
 ## Installation
 
 Install my-project with npm
@@ -178,10 +186,3 @@ Install my-project with npm
   cd my-project
 ```
     
-## Used By
-
-This project is used by the following companies:
-
-- Company 1
-- Company 2
-
