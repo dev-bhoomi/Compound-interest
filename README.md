@@ -1,15 +1,28 @@
 
-#District-Weather-Application
+# District-Weather-Application
 
 Developed a weather application that provides real-time weather information for any city. Users can input the name of a city to view the current temperature along with a weekly weather forecast. The user interface dynamically changes based on the weather conditions, offering a visual representation of the weather. The application is built using React, JavaScript, CSS, HTML, and integrates with the RapidAPI for weather data.
-## Languages/Library
-<!-- Languages -->
--HTML
--CSS
--JavaScript
--REACT
+## Features
 
-<!-- Library -->
+- #### City-Based Weather Search : 
+Enter the name of any city to retrieve and display the current temperature and weather conditions.
+
+- #### Responsive Design :
+The application is fully responsive, ensuring a  seamless user experience across different devices and screen sizes.
+- #### Question Loading : 
+Allows manual loading of questions, ensuring a unique experience with each playthrough.
+- #### Score Tracking : 
+Tracks and displays the user's current level and score, motivating users to achieve higher scores.
+
+
+## Languages/Library
+### Languages
+- REACT
+- JavaScript
+- HTML
+- CSS
+
+### React Libraries
 - "@material-ui/core": "^4.12.4",
 - "@material-ui/icons": "^4.11.3",
 - "@testing-library/jest-dom": "^5.17.0",
@@ -46,16 +59,6 @@ Hey there! Just a friendly reminder to follow these steps when working on a Reac
 Hope that helps!
 ## How to deploy
 [![Watch the video](https://img.youtube.com/vi/mdO18zv3oGQ/0.jpg)]
-
-## Features
-
-- City-Based Weather Search : Enter the name of any city to retrieve and display the current temperature
-and weather conditions.
-
-- Responsive Design : The application is fully responsive, ensuring a seamless user experience across different devices and screen sizes.
-- Question Loading : Allows manual loading of questions, ensuring a unique experience with each playthrough.
-- Score Tracking : Tracks and displays the user's current level and score, motivating users to achieve higher scores.
-
 
 # Hi, I'm dev-bhoomi! 👋
 
